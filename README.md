@@ -21,3 +21,6 @@ An intelligent autocorrect application that provides real-time text correction a
 ```bash
 mkdir autocorrect-tool
 cd autocorrect-tool
+
+## TO START THIS APPLICATION 
+1.python -m streamlit run app.py
